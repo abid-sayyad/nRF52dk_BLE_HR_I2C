@@ -24,3 +24,7 @@ This sample can be found under :zephyr_file:`samples/bluetooth/peripheral_hr` in
 Zephyr tree.
 
 See :ref:`bluetooth samples section <bluetooth-samples>` for details.
+
+Demo
+****
+
